@@ -20,3 +20,7 @@ Un menu principal à partir duquel l’utilisateur choisit les actions qu’il v
 
 5. **Gérer les Réservations :**
    - Dans ce sous-menu, Les utilisateurs peuvent créer de nouvelles réservations, afficher les détails d'une réservation existante, modifier une réservation et annuler une réservation.
+
+## Vidéo de Démonstration
+
+<video width="630" height="300" src="https://youtu.be/W8dRNhAfIjY"></video>
