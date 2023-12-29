@@ -23,4 +23,4 @@ Un menu principal à partir duquel l’utilisateur choisit les actions qu’il v
 
 ## Vidéo de Démonstration
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W8dRNhAfIjY?si=nGdqkHeq08mz8FeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Regarder la Vidéo de Démonstration](https://youtu.be/W8dRNhAfIjY)
