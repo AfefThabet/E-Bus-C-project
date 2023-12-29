@@ -1,4 +1,4 @@
-aa# E-Bus - Application de Réservation de Bus en C
+# E-Bus - Application de Réservation de Bus en C
 
 ## Liste des fonctionnalités proposées :
 
