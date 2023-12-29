@@ -1,11 +1,10 @@
-# E-Bus-C-project
-E-Bus - Application de Réservation de Bus en C
+# E-Bus - Application de Réservation de Bus en C
 
-Liste des fonctionnalités proposées :
+## Liste des fonctionnalités proposées :
 
 Un menu principal à partir duquel l’utilisateur choisit les actions qu’il veut effectuer. A partir de ce dernier, il va choisir s’il veut faire la création d'un nouveau compte voyageur, afficher les détails des bus, chercher un bus, afficher les dernières recherches ou encore gérer les reservations en saisissant le nombre correspondant au choix voulu, ce qui va permettre d’accéder au sous-menu.
 
-Description des fonctionnalités :
+## Description des fonctionnalités :
 
 1. **Créer un Nouveau Compte Voyageur :**
    - L'application permet aux utilisateurs de créer un compte voyageur en fournissant des informations telles que le numéro de CIN, le nom, le prénom, l'email et la date de naissance.
